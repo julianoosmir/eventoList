@@ -1,6 +1,11 @@
 
 Juliano Cesar Osmir Hein RA: 339112013098
- ![Captura de Tela_select-area_20210916003019](https://user-images.githubusercontent.com/60453624/133549653-a295db89-dd65-42cb-b95d-43848c7cca1c.png)
+
+
+<div align="center">
+  ![Captura de Tela_select-area_20210916003019](https://user-images.githubusercontent.com/60453624/133549653-a295db89-dd65-42cb-b95d-43848c7cca1c.png)
+</div>
+
 ---------------------------------------------
 Um promoter deseja controlar todos os eventos dos quais participa e você foi contratado
 para resolver este problema.
